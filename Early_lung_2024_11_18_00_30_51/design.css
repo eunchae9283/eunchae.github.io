@@ -1,0 +1,9 @@
+body {
+  margin: 0; /* 기본 여백 제거 */
+  padding: 0; /* 기본 여백 제거 */
+  height: 100vh; /* 전체 화면 높이 설정 */
+  background-image: url('START 배경.png'); /* 이미지 파일 경로 */
+  background-size: cover; /* 이미지 크기를 화면에 맞게 조정 */
+  background-position: center; /* 이미지를 중앙에 위치 */
+  background-repeat: no-repeat; /* 이미지 반복 금지 */
+}
