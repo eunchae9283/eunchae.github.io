@@ -1,2 +1,0 @@
-# eunchae.github.io
- exhibition
